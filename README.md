@@ -1,8 +1,10 @@
 # Welcome to my Work!
 ![Profile Pic](ZCG Photo.jpeg)
-My [CV](ZCurtisGinsbergCV.pdf)
+My Info:
+[CV](ZCurtisGinsbergCV.pdf)
+[Github](https://github.com/zcurtisginsberg)
+[Linkedin](https://www.linkedin.com/in/z-curtis-ginsberg/)
 
-My [Github](https://github.com/zcurtisginsberg)
 
 ## About Me
 

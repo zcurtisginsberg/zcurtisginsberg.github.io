@@ -1,4 +1,4 @@
-# Welcome to my Portfolio!
+# Welcome to my Work!
 ![Profile Pic](ZCG Photo.jpeg)
 My [CV](ZCurtisGinsbergCV.pdf)
 My [Github](https://github.com/zcurtisginsberg)

@@ -1,9 +1,7 @@
 # Welcome to my Portfolio!
 ![Profile Pic](ZCG Photo.jpeg)
 My [CV](ZCurtisGinsbergCV.pdf)
-
-
-[editor on GitHub](https://github.com/zcurtisginsberg/zcurtisginsberg.github.io/edit/main/README.md)
+My [Github](https://github.com/zcurtisginsberg)
 
 ## About Me
 
@@ -22,7 +20,7 @@ My artistic pieces have focused on teaching science, primarily physics, through 
 Back in 2021 I created an installation exhibit where people could come and create 'air showers' by throwing tennis balls. My intention was to display how astrophysical particles hitting our atmosphere creates a large 'shower' of other particles and electromagnetic waves, and to do that in a fun way. Unfortunately, due to the Covid-19 pandemic, I have yet to show this piece in a public space. I do have a short [video](https://drive.google.com/file/d/1GFAfDlxvOEQzTHQlqI7LPblpn8TjaN4Q/view) showcasing the piece, and I hope to install it at some point soon.
 
 ### Index of Refraction
-Later in 2021 I created 
+Later in 2021 I created an virtual 'experiment' to simulate the index of refraction of light incident on a boundray. I created this piece in p5.js as a tool to help teach my friends in introductory waves, optics, and light about this phenomenon. The math behind these concepts can be difficult to visualize, so I decided to make it real as a more direct teaching tool. I have included the experiment as a [file](creative_coding_final.js) in my repository.
 
 ### Radio Wave Hacking
-I am currently working on 
+I am currently working on an installation piece to delve into
